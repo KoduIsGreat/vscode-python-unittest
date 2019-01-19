@@ -1,6 +1,6 @@
 ## Purpose
 
-This repo is a reference used for vscode-python extension [issue ###]()
+This repo is a reference used for vscode-python extension [issue 4062](https://github.com/Microsoft/vscode-python/issues/4062)
 Attempt to isolate inconsistent unittest behavior without using a virtual environment.
 
 
