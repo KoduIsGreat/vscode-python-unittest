@@ -1,0 +1,13 @@
+{
+"editor.tabSize": 4,
+"python.unitTest.unittestEnabled": true,
+"python.unitTest.unittestArgs": [
+    "-v",
+    "-s",
+    ".",
+    "-p",
+    "*_test.py"
+],
+"python.unitTest.nosetestsEnabled": false,
+"python.unitTest.pyTestEnabled": false
+}
